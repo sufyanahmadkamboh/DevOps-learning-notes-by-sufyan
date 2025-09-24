@@ -6,11 +6,8 @@
 <!-- SUBTOPICS_INDEX_START -->
 - [Basics](./basics/README.md)
 - [Branching](./branching/README.md)
-- [Workflows](./workflows/README.md)
 - [Rebasing](./rebasing/README.md)
-- [Hooks](./hooks/README.md)
-- [Submodules](./submodules/README.md)
-- [Gitops](./gitops/README.md)
+
 <!-- SUBTOPICS_INDEX_END -->
 
 ## Cheatsheets
