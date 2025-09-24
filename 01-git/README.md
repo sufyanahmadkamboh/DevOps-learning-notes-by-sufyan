@@ -10,5 +10,3 @@
 
 <!-- SUBTOPICS_INDEX_END -->
 
-## Cheatsheets
-- Add quick references here (commands, flags, gotchas).
